@@ -64,6 +64,7 @@ packages=(
     "github.com/hueristiq/xurlfind3r/cmd/xurlfind3r@latest"
     "github.com/ferreiraklet/airixss@latest"
     "github.com/ferreiraklet/nilo"
+    "github.com/hueristiq/xurlfind3r/cmd/xurlfind3r@latest"
 )
 
 for package in "${packages[@]}"
