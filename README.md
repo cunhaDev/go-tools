@@ -82,7 +82,7 @@ chmod +x recon-template.sh
 5. execute this command for install Go tools:
 
 ```sh
-./install_packages.sh
+./recon-template.sh
 ```
 
 6. execute this command for move all tools to /usr/local/bin:
